@@ -1,0 +1,20 @@
+
+local function strsplit(delimiter, text)
+    if delimiter == "" then
+        error("delimiter matches empty string!")
+    end
+    local list, pos, first, last = {}, 1
+    while true do
+        first, last = text:find(delimiter, pos, true)
+        if first then -- found?
+            table.insert(list, text:sub(pos, first - 1))
+            pos = last + 1
+        else
+            table.insert(list, text:sub(pos))
+            break
+        end
+    end
+    return list
+end
+M.private.strsplit = strsplit
+
