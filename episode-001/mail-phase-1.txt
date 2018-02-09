@@ -1,0 +1,25 @@
+Bonjour à vous.
+
+Nous voici arrivé à notre premier essai d'exercice de lecture de code à distance.
+
+Je m'attends à ce que chacune et chacun d'entre vous prenne le temps qui lui ait nécessaire. Ne vous mettez pas la pression.
+
+J'envisage pour le moment de faire par petite étape, pour me donner le temps de voir comment je souhaite organiser le suivi de vos retour.
+
+C'est une grande première pour moi aussi vous l'aurez compris; aussi, j'espère que vous m'aiderez en me faisant par de vos retour.
+
+
+
+Pour notre premier épisode, je vous propose le boutdecode.txt en pièce jointe.
+
+Ce que je vous demanderais, c'est de
+- ranger par groupe cohérent chacun des mots/signe de ce bout de code.
+- donner un nom à ces groupes. Ce n'est pas très grave si c'est pas LE nom, ce qui m'intéresse, c'est le nom que VOUS lui donné
+- expliquer pourquoi ce nom et le regroupement (en quelques mots)
+
+
+Envoyez moi vos retour sour la forme qui vous arrange (c'est aussi une part de mon expérimentation, et je vous rappel que vous êtes mes cobayes :-D)
+
+Merci encore à vous, et à bientôt.
+
+

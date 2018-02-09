@@ -7,4 +7,6 @@ Les personnes participantes sont:
 - Sarah B <sarah.butez@gmail.com>
 
 - Alexandre Jigmond <alexandrejigmond@gmail.com>
+- Christophe Robillard <christophe.robillard@gmail.com>
+- Eric Leroy-Terquem <ericleroyterquem@gmail.com>
 

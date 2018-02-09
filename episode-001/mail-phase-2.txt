@@ -1,0 +1,20 @@
+Bonjour à vous,
+
+et bravo ! vous avez répondu à la première phase de l'épisode 001.
+
+Je vous propose d'explorer maintenant le même bout de code (que je vous remet en pièce jointe au cas où), mais cette fois, j'aimerais que vous fassions un découpage vertical, par bloc de code.
+
+J'aimerais que pour chaque ligne vous:
+- identifiez (elle représente quelle type d'instruction)
+- notiez le bloc parent auquelle elle appartient (si elle en a un).
+
+On m'a suggéré de vous proposer un joker, une aide, à la demande. Si vous avez envie, n'hésitez pas
+
+Et n'oubliez pas, dans vos retour j'aimerais :
+- avoir votre résultat de l'exercice
+- avoir votre sentiment par rapport à l'exercice
+- savoir si vous avez appris quelque chose en le faisant.
+
+A bientôt,
+-- Yannick.
+

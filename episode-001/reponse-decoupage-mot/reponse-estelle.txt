@@ -1,0 +1,18 @@
+
+_email du 6 janvier 2018_
+
+Alors je me suis penchée sur le code. Je pars un peu de zéro, la soirée code du mois d'octobre est un peu loin dans mes souvenirs donc je tâtonne.
+
+Première remarque pour une débutante comme moi, je pense qu'il serait bien de proposer un exercice intermédiaire, soit proposer des noms de groupe à identifier dans le code ou identifier des groupes et tenter de les nommer.
+
+Bon j'ai fait un premier jet, ce n'est pas toujours cohérent enfin tu verras s'il y a quelque chose à sauver.
+
+je peux continuer l'exercice si tu as des corrections ou des lignes directrices à me donner.
+
+
+
+_email du 9 janvier_
+
+Alors faire cet exercice m'a permis de prendre un peu de temps à regarder du code toute seule sans aide.
+Je me dis que ce n'est pas complétement de l'Hébreu pour moi, j'ai l'impression de distinguer quelques informations dans la structuration du code et ça me donne donc envie d'avoir quelques clés pour aller plus loin.
+
