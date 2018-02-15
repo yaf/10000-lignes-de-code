@@ -1,0 +1,46 @@
+chalut,
+
+j'ai fait mes devoirs !
+
+- ranger par groupe cohérent chacun des mots/signe de ce bout de code.
+done
+
+- donner un nom à ces groupes. Ce n'est pas très grave si c'est pas LE nom, ce qui m'intéresse, c'est le nom que VOUS lui donné
+done
+
+- expliquer pourquoi ce nom et le regroupement (en quelques mots)
+je te propose deux versions, qui témoignent de la progression de ma réflexion.
+
+dans la v1
+j'ai commencé par identifier les mots-clés, car ça me semblait être le plus simple. ce sont tous les mots qui te sont imposés par le langage. mots-clés parce que ces mots sont généralement courts et ont un sens déterminé.
+puis j'ai identifié les variables, dans lesquelles on stocke des valeurs. les variables sont les mots à gauche du signe égal ou sont passées en argument de fonctions. les valeurs sont toujours à droite du signe égal. j'ai utilisé les mots qu'on emploie généralement pour ce genre de choses. ça commençait à devenir bien coloré.
+j'ai cherché des catégories pour les mots restants, j'ai vu insert, j'ai compris que j'avais oublié les fonctions. donc j'ai rajouté les fonctions, avec un doute sur find et sub, car ils ne sont pas appelés avec . mais avec : bizarrement. mais j'ai tout de même décidé que c'étaient des fonctions.
+ensuite sont venus tous les symboles, que j'ai appelés ponctuation, car ça permet de structurer, découper, regrouper le code. j'ai hésité sur les symboles + - =. je pensais les identifier comme ponctuation au début, puis je me suis dit que a + b c'était comme a.add(b) donc + est devenu une fonction. pareil pour a = 3 qui peut se lire a.assign(3).
+là il restait encore les mots table et text. je ne les voyais pas comme des variables car on ne les a jamais déclarés et ils ne varient pas à mon sens. donc mots-clés.
+il restait aussi -- found? dont je n'ai pas compris le sens. j’ai donc supposé que c’était un commentaire
+
+mais je n'étais pas vraiment satisfait à cause de certains cas comme strsplit à la dernière ligne, car strsplit changeait de catégorie par rapport à la première ligne ; à cause de first - 1 qui mélangeait variable et valeur ; à cause du mélange de couleurs dans les paramètres de la fonction find.
+
+dans la v2
+donc j'ai eu envie de changer de concept et de remplacer variable et valeur par left-value et right-value. c'est Laurent qui m'en a parlé pour la première fois, j'avais pas très bien compris à l'époque, mais là, bizarrement, ça me semblait plus adapté.
+donc lvalues ou left-values pour les mots généralement placés à gauche du signe = et vice versa. mais généralement n'est pas une règle.
+la règle que je me suis donnée pour distinguer ces deux catégories est la suivante : les lvalues sont modifiées lorsqu'elles apparaissent, les rvalues ne sont pas modifiées. il me semble que le découpage est plus logique maintenant.
+
+- votre réponse à l'exercice
+done
+
+- ce que vous avez pensez de l'exercice
+moins facile que prévu
+super utile pour mettre ses connaissances à l'épreuve
+j'aimerais avoir une analyse de ma réponse par un expert, ou un découpage cohérent, car je sais que le mien manque de logique et j'ai toujours des doutes en écrivant ce point meta
+
+- ce que vous avez appris durant l'exercice.
+j'ai pensé pendant l'exercice au terme littéral que Laurent emploie souvent et que je n'ai jamais compris. peut-être que l'une de mes deux versions à quelque chose à voir avec ce concept. peut-être pas.
+peut-être qu'il n'y a pas qu'un seul découpage correct
+tout ce que je sais, c'est que je ne sais rien
+
+et voilà :) très bonne soirée Yannick
+
+Etienne Puydebois
+
+

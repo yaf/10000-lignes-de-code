@@ -2,24 +2,29 @@
 Episode 1:
 
 En attente de réponse:
-- Anna-Livia
 - Sakada
 - Carole Gombauld
-- Étienne puydebois
 - Christophe
 - Elodie
 - Sarah
-- Eric
 
 Envoyé et répondu:
 - Estelle
 - Alexandra
 - Souley
+- Anna-Livia
+- Étienne puydebois
+- Eric
 
 
 Episode 1 phase 2:
 
-En attente de réponse
+A envoyer:
+- Anna-Livia
+- Étienne puydebois
+- Eric
+
+En attente de réponse:
 - Estelle
 - Alexandra
 - Souley

@@ -1,0 +1,49 @@
+# Groupes
+
+# Ce premier groupe de mots détermine la structure et la circulation
+# -termes conditionnels :  while, if, then, else
+# -termes d'action : do, return, break, end
+# -terme d'avertissement : error
+
+# Ce deuxième groupe range les signes par catégorie selon leur rôle 
+# -signes de ponctuation : ( ) " , { } : .
+# -signe d'affectation : =
+# -signes d'arithmétique : + - ==
+
+# J'ai regroupé ces trois ensembles par analogie avec la syntaxe humaine (sujet, verbe, complément)
+# -variables : delimiter, text, strsplit, pos, first, last
+# -fonctions : strsplit, find, insert, sub, found?
+# -adjectifs : local, private
+
+# Ce groupe contient différents types de variables
+# -chaînes de caractères : "delimiter matches empty string!" 
+# -booléens : true
+# -nombres : 1
+# -tableaux : table, list
+
+# En dernier, un peu à part
+# -classe : M
+
+#  J'ai l'impression que cet exercice m'a fait réfléchir sur le sens des termes en m'amenant à mobiliser des notions que je connaissais déjà, en me forçant à m'interroger sur des petits bouts de code les uns après les autres. Au début, j'ai essayé de faire des recherches sur Internet pour m'aider mais ça n'a pas été fructueux donc j'ai laissé tomber. Je crois que c'est du R. Je comprends vaguement le code dans l'ensemble mais pas dans le détail. J'ai un peu le sentiment d'être passé à côté de l'exercice et que j'apprendrai surtout en lisant la correction. 
+
+
+
+local function strsplit(delimiter, text)
+    if delimiter == "" then
+        error("delimiter matches empty string!")
+    end
+    local list, pos, first, last = {}, 1
+    while true do
+        first, last = text:find(delimiter, pos, true)
+        if first then -- found?
+            table.insert(list, text:sub(pos, first - 1))
+            pos = last + 1
+        else
+            table.insert(list, text:sub(pos))
+            break
+        end
+    end
+    return list
+end
+M.private.strsplit = strsplit
+

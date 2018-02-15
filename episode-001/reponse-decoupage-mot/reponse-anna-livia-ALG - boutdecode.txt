@@ -1,0 +1,77 @@
+
+local function strsplit(delimiter, text)
+    if delimiter == "" then
+        error("delimiter matches empty string!")
+    end
+    local list, pos, first, last = {}, 1
+    while true do
+        first, last = text:find(delimiter, pos, true)
+        if first then -- found?
+            table.insert(list, text:sub(pos, first - 1))
+            pos = last + 1
+        else
+            table.insert(list, text:sub(pos))
+            break
+        end
+    end
+    return list
+end
+M.private.strsplit = strsplit
+
+
+
+# Groupes
+
+
+
+## Fonctions et Variables - représentations de données présentes à l'interieur du bout de code
+
+### Fonctions et variables assignée dans ce bout de code - Dont la fonction peut être connue en lisant ce bout de code
+strsplit
+delimiter
+text
+list
+pos
+first
+last
+found
+
+### Fonctions et variables définies autre part - dont la fonction ne peut pas être connue (mais potentiellement inférée) en lisant ce bout de code
+error()
+text:find()
+text:sub()
+table.insert()
+M
+
+
+## Grammaire du langage - Element permettant les opérations basiques d'un langage de programmation
+
+### Constantes - données présentes à l'interieur du bout de code
+
+"" (string)
+"delimiter matches empty string!" (String)
+1 (Int)
+true (Boolean)
+
+### Opérateurs - permet de modifier/comparer la donnée
+==
+-
++
+
+### Elements permettant de gérer l'assignation et le scopting des variables
+local
+function()
+private
+return
+=
+--
+
+### Elements permettant la procéduralité
+if/then/else/end
+While/do/end
+?
+
+
+
+
+
