@@ -1,14 +1,12 @@
 
 Episode 1:
 
-A envoyer ?
-- Christophe
-
 En attente de réponse:
 - Anna-Livia
 - Sakada
 - Carole Gombauld
 - Étienne puydebois
+- Christophe
 - Elodie
 - Sarah
 - Eric
