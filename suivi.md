@@ -27,8 +27,8 @@ A envoyer:
 - Elodie
 
 En attente de réponse:
-- Estelle
 - Souley
 
 Envoyé et répondu:
+- Estelle
 - Alexandra

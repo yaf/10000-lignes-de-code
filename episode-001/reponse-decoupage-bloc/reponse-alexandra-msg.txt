@@ -1,0 +1,2 @@
+C'est encore un exercice intéressant car il m'oblige à lire du code. Ensuite, de revenir sur un code que j'ai déjà analysé permet d'approfondir et de découvrir des aspects que je n'avais pas vu auparavant. Tout en gardant à l'esprit que je ne connais pas du tout le langage. C'est d'ailleurs, ce point qui peut aussi être frustrant, car il m'est arrivé de vouloir comprendre ce que cela faisait tout en doutant sur ce que j'avais réellement compris et en me retenant de rechercher quel langage c'était.
+
