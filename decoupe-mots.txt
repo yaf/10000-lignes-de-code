@@ -1,0 +1,19 @@
+
+
+# Litteraux
+## chaine de charactère
+## booléen
+## numérique
+?
+
+# Choisi par la personne qui a écrit le code
+## variables
+## classe
+## module
+## fonction
+## méthode
+
+# Mots réservés
+## opérateur
+## mots clefs
+## variable, class, module, fonction, methode provenant de la core lib ou std lib

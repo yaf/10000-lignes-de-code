@@ -2,10 +2,10 @@
 Episode 1:
 
 En attente de réponse:
+- Thomas
 - Sakada
 - Carole Gombauld
 - Christophe
-- Elodie
 - Sarah
 
 Envoyé et répondu:
@@ -15,6 +15,7 @@ Envoyé et répondu:
 - Anna-Livia
 - Étienne puydebois
 - Eric
+- Elodie
 
 
 Episode 1 phase 2:
@@ -23,8 +24,11 @@ A envoyer:
 - Anna-Livia
 - Étienne puydebois
 - Eric
+- Elodie
 
 En attente de réponse:
 - Estelle
-- Alexandra
 - Souley
+
+Envoyé et répondu:
+- Alexandra

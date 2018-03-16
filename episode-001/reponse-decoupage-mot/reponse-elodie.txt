@@ -1,0 +1,64 @@
+
+local function strsplit(delimiter, text)
+    if delimiter == "" then
+        error("delimiter matches empty string!")
+    end
+    local list, pos, first, last = {}, 1
+    while true do
+        first, last = text:find(delimiter, pos, true)
+        if first then -- found?
+            table.insert(list, text:sub(pos, first - 1))
+            pos = last + 1
+        else
+            table.insert(list, text:sub(pos))
+            break
+        end
+    end
+    return list
+end
+M.private.strsplit = strsplit
+
+
+
+Elements syntaxique du langage :
+- local function,
+- local,
+- if,
+- then,
+- end,
+- while,
+- do,
+- else,
+- break,
+- private
+
+Nom de variable :
+- delimiter,
+- text,
+- list,
+- pos,
+- first,
+- last,
+- table,
+
+Nom de fonction :
+- strsplit
+- error
+- find
+- found?
+- insert
+- sub
+- M
+
+Diver :
+
+- == : représente une égalité
+- "" : represente une chaine de caractère vide.
+- "delimiter matches empty string!" : represente une string
+- last = {} : represente un object
+- 1 : represente un entier
+- true : represente vrais dans une comparaison par exemple
+- text: je ne sais pas.
+- last = text:find(delimiter, pos, true) : represent une affectation de variable (le resultat de cette fonction va dans la varaible last.)
+- table.insert(list, text:sub(pos)) : represente une varable table a qui on lui applique la fonction insert avec ses paramêtres.
+- + 1 / - 1 : represente un + 1 sur la variable first (qui doit contenir un integer.)
