@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<meta charset="utf-8">
+<title>10 000 lignes de code</title>
+<style>
+button { background:none;border:none; }
+</style>
+
+<h1>10 000 lignes de code</h1>
+
+<code id="codeZone">
+</code>
+
+<script>
+
+const insertCodeWord = (codeWord) => {
+  var clickButton = document.createElement("button")
+    var codeWord = document.createTextNode(codeWord)
+    clickButton.append(codeWord)
+    return clickButton
+
+}
+
+
+var piecesOfCode = ["local function strsplit(delimiter, text)", "  if delimiter == '' then -- this would result in endless loops"]
+
+piecesOfCode.forEach( (pieceOfCode) => {
+
+  pieceOfCode = pieceOfCode.replace('(', ' ( ')
+  pieceOfCode = pieceOfCode.replace(')', ' ) ')
+  pieceOfCode = pieceOfCode.replace(',', ' , ')
+  console.log(pieceOfCode)
+  var blankSplittedPieceOfCode = pieceOfCode.split(' ')
+
+  console.log(blankSplittedPieceOfCode)
+
+  blankSplittedPieceOfCode.forEach((element) => {
+    codeZone.append(insertCodeWord(element))
+  });
+  codeZone.append(document.createElement('br'))
+})
+
+
+
+</script>
