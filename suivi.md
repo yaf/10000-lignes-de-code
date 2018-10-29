@@ -2,7 +2,6 @@
 Episode 1:
 
 En attente de réponse:
-- Thomas
 - Sakada
 - Carole Gombauld
 - Christophe
@@ -16,11 +15,13 @@ Envoyé et répondu:
 - Étienne puydebois
 - Eric
 - Elodie
+- Thomas
 
 
 Episode 1 phase 2:
 
 A envoyer:
+- Thomas
 - Anna-Livia
 - Étienne puydebois
 - Eric

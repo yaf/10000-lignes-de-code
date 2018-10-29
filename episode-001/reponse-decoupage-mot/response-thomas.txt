@@ -1,0 +1,24 @@
+Concernant mes retours, je dirai que j'ai trouvé l'exercice difficile au début, car il m'a manqué un peu de contexte. Du coup, j'ai eu l'impression de devoir faire des choix sur la manière dont j'allais conduire l'exercice avant de pouvoir le commencer. Peut-être est-ce volontaire ?
+
+Mes deux remarques sont d'ailleurs liées à ça.
+
+En tout cas, cela m'a énormément plu de participer à cet exercice et j'attends la suite avec impatience.
+
+Première remarque : j'ai eu du mal à comprendre l'objectif de l'exercice.
+J'aurai bien aimé savoir ce que cet exercice permet d'évaluer chez moi : la compréhension, les connaissances, ou autre(s)... ?
+S'agit-il, plutôt, de récolter des informations pour l'auteur de l'exercice et non pour ses participants, comme une sorte de sondage ou d'expérience ?
+Je rajouterai aussi : que feras-tu des réponses ? Aurons-nous un retour ? ...
+
+Deuxième remarque : doit-on analyser les éléments syntaxique d'un langage de programmation ou spécifiquement de celui du langage utilisé dans le boutdecode ?
+En gros, je me suis demandé si je devais me mettre dans le contexte du langage utilisé et de son paradigme ou si je pouvais y aller plus librement et réfléchir aussi par rapport à des langages dont la grammaire est moins "conventionnelle". Exemple, s'agissait-il d'éléments syntaxique ou de macros ? Et comme je ne connais pas le langage utilisé (existe-t'il ?), j'ai un peu mixé selon mes "goûts" sans forcément attendre de viser juste...
+
+
+Aussi, en me mettant dans la peau de qqn qui part de zéro, je me suis demandé si l'exercice me demandait de :
+  - faire des recherches sur les éléments syntaxique d'un langage de programation au sens large
+  - faire des recherches sur les éléments syntaxique du langage de programmation utilisé dans le boutdecode.txt (à identifier d'abord)
+  - ne pas faire de recherche et répondre à l'instinct (aussi difficile que cela puisse paraître).
+
+Concernant le format, rien à redire, les mails sont au top ! Et si jamais tu souhaites automatiser le tout, je me dis qu'un repo git avec une branche par personne peut être une bonne solution. Il faudrait faire une toute petite doc (3 lignes) pour expliquer comment clone/checkout une branche spécifiquement. Les épisodes seraient alors des dossiers.
+Nous n'aurions qu'à clone notre branche et avec un accès en lecture sur les autres branches nous pourrions voir ce que font les autres (s'ils le permettent).
+
+Voilà, voilà, j'ai fait le tour :)
